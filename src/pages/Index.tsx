@@ -95,7 +95,7 @@ const Index = () => {
   return (
     <div className="min-h-screen" style={{backgroundColor: 'rgb(251 247 240)'}}>
       {/* Header */}
-      <header className="border-b" style={{borderColor: 'rgb(217 179 140)', backgroundColor: 'rgb(245 235 220)'}}>
+      <header className="border-b" style={{borderColor: 'rgb(217 179 140)', backgroundColor: 'rgb(220 235 222)'}}>
         <div className="container mx-auto px-6 py-8">
           <div className="text-center space-y-4">
             <h1 className="text-4xl font-bold text-foreground">Information Hub</h1>
