@@ -109,7 +109,7 @@ const Index = () => {
       <div className="container mx-auto px-6 py-12">
         <div className="grid lg:grid-cols-4 gap-8">
           {/* Sidebar */}
-          <div className="lg:col-span-1 space-y-6">
+          <div className="lg:col-span-1 space-y-6 p-4 rounded-lg" style={{backgroundColor: 'rgb(245 238 230)'}}>
             {/* Search */}
             <Card>
               <CardHeader>
